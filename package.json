@@ -1,0 +1,26 @@
+{
+  "name": "vue_assignment_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arojas32/Vue_Assignment_4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arojas32/Vue_Assignment_4/issues"
+  },
+  "homepage": "https://github.com/arojas32/Vue_Assignment_4#readme",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-plugin-vue": "^9.6.0",
+    "prettier": "^2.7.1",
+    "vue-eslint-parser": "^8.3.0"
+  }
+}
